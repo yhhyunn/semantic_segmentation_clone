@@ -3,7 +3,7 @@
 Semantic segmenttion for image manipulation  
 사람 부분을 마스크로 하여 배경과 전경이미지 합성
 
-_[Result Image]_
+_[Result Image]_  
 ![Image0](https://github.com/yhhyunn/semantic_segmentation_clone/raw/master/result.jpg)
 ![Image1](https://github.com/yhhyunn/semantic_segmentation_clone/raw/master/result_other.jpg)
 
